@@ -28,7 +28,7 @@ With experience in modern technologies such as React, Angular, Spring Boot, and 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ANCB03"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ANCB03&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center"><a href="http://www.github.com/ANCB03"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ANCB03&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div>
 
 <a href="https://github.com/ANCB03" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANCB03&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
